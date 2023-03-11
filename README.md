@@ -1,2 +1,0 @@
-# digikala
-my first assignment
