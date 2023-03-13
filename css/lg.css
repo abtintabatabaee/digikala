@@ -112,7 +112,8 @@ form.form-xl>input{
  background-color: #ededed;
  outline: none;
  border: 0 solid white;
-border-radius: 6px;
+ border-radius: 6px;
+ padding-right:35px;
 }
 a{
     text-decoration: none;
