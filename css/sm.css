@@ -810,6 +810,7 @@ border-radius: 10px;
   div.ozviat>div:first-of-type>a{
     color: white;
     font-size: 12px;
+       text-decoration: none;
     }
   div.ozviat>div:last-of-type>a{
   line-height: 0px;
@@ -817,7 +818,7 @@ border-radius: 10px;
 
   div.ozviat>div:last-of-type{
 margin-right: 10px;
-
+line-height: 0;
   }
   div.main-left{
     width: 100%;
@@ -870,7 +871,6 @@ display: none;
   }
   div.main-left-hero>div{
     width: 30%;
-    height:120px;
     display: flex;
     align-items: center;
     justify-content: center;
